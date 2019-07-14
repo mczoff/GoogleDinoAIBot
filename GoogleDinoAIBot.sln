@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDinoAIBot", "GoogleDinoAIBot\GoogleDinoAIBot.csproj", "{6AC8E954-FB4F-49C0-8F72-AEA6CFF32D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleDinoAIBot.Core", "GoogleDinoAIBot.Core\GoogleDinoAIBot.Core.csproj", "{89FE7AB9-8F4D-4A20-9DAB-209A2C868F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC8E954-FB4F-49C0-8F72-AEA6CFF32D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC8E954-FB4F-49C0-8F72-AEA6CFF32D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC8E954-FB4F-49C0-8F72-AEA6CFF32D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC8E954-FB4F-49C0-8F72-AEA6CFF32D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89FE7AB9-8F4D-4A20-9DAB-209A2C868F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89FE7AB9-8F4D-4A20-9DAB-209A2C868F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89FE7AB9-8F4D-4A20-9DAB-209A2C868F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89FE7AB9-8F4D-4A20-9DAB-209A2C868F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5485C10-A603-47B7-BC0A-415A33792D03}
+	EndGlobalSection
+EndGlobal
